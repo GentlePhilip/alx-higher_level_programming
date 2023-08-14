@@ -6,7 +6,6 @@
  *
  * Return: pointer to the first node in the new list
  */
-
 void reverse_listint(listint_t **head)
 {
 	listint_t *prev = NULL;
@@ -30,7 +29,6 @@ void reverse_listint(listint_t **head)
  *
  * Return: 1 if it is, 0 if not
  */
-
 int is_palindrome(listint_t **head)
 {
 	listint_t *slow = *head, *fast = *head, *temp = *head, *dup = NULL;
