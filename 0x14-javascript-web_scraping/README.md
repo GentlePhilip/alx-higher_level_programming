@@ -1,0 +1,3 @@
+ PROJECT TITLE - 0x14. JavaScript - Web scraping
+
+ PROJECT AUTHOR - NYARKO PHILIP ABEL
